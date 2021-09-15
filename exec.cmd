@@ -1,0 +1,1 @@
+python main.py --file=a.txt -ls --size --mtime=human --rename=a.txt -ls
